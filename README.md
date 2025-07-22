@@ -20,9 +20,13 @@ Here are some screenshots of the portfolio in action:
 
 | Hero Section | Projects Showcase | Terminal Play Zone |
 |--------------|-------------------|---------------------|
-| ![Hero](./screenshots/hero.png) | ![Projects](./screenshots/projects.png) | ![Terminal](./screenshots/terminal.png) |
+| <img width="100%" alt="Hero" src="https://github.com/user-attachments/assets/c7bdf71d-f63c-497b-9127-7156068ea819" /> | <img width="100%" alt="Projects" src="https://github.com/user-attachments/assets/71269280-539f-4a19-b104-d8b2bfb46e40" /> | <img width="100%" alt="Terminal" src="https://github.com/user-attachments/assets/280fb685-d690-4a09-b64e-79771c2d6ae7" /> |
 
-> 📁 Create a folder called `/screenshots/` in your repo and place the PNGs there.
+| About Section | Contact Section |
+|---------------|------------------|
+| <img width="100%" alt="About" src="https://github.com/user-attachments/assets/a2fba312-3b93-4db4-a6da-51546557d9ce" /> | <img width="100%" alt="Contact" src="https://github.com/user-attachments/assets/831fa421-f5d6-4e6b-bc17-a9fe345e23c0" /> |
+
+> 💡 If you'd prefer to store these locally, create a `/screenshots/` folder and replace the URLs with relative paths like `./screenshots/hero.png`
 
 ---
 
