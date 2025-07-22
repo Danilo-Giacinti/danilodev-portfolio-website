@@ -4,8 +4,6 @@ Welcome to my **personal portfolio** website built with **Laravel**, **Tailwind 
 
 It’s a custom-built site to showcase my **full-stack web development skills** through clean code, interactive animations, modern architecture, and a mobile-first approach.
 
-> ⚠️ This repo is not a boilerplate — it’s a professional showcase and digital CV.
-
 ---
 
 ## 🔗 Live Website
@@ -25,8 +23,6 @@ Here are some screenshots of the portfolio in action:
 | About Section | Contact Section |
 |---------------|------------------|
 | <img width="100%" alt="About" src="https://github.com/user-attachments/assets/a2fba312-3b93-4db4-a6da-51546557d9ce" /> | <img width="100%" alt="Contact" src="https://github.com/user-attachments/assets/831fa421-f5d6-4e6b-bc17-a9fe345e23c0" /> |
-
-> 💡 If you'd prefer to store these locally, create a `/screenshots/` folder and replace the URLs with relative paths like `./screenshots/hero.png`
 
 ---
 
