@@ -51,25 +51,6 @@ Here are some screenshots of the portfolio in action:
 
 ---
 
-## 📁 Project Structure
-
-This repo includes only the **frontend and Blade views** of my portfolio.  
-It is **not meant for deployment** — the live site is hosted via [Laravel Forge](https://forge.laravel.com).
-
----
-
-## 💼 Featured Project
-
-### 🏋️ Brooks Gym – Functional Fitness Website
-
-A custom Laravel website built for a local gym.  
-Designed for conversions, local SEO, and showcasing trainers + class offerings.
-
-**Tech Used:** Laravel • Tailwind CSS • JavaScript • Docker  
-→ [See Project on Live Site](https://danilodev.dev#projects)
-
----
-
 ## 🙋‍♂️ About Me
 
 I'm **Danilo Giacinti**, a full-stack developer from South Africa.  
