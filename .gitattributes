@@ -1,0 +1,24 @@
+# 🚫 Normalize line endings to LF for consistency across all platforms
+* text=auto eol=lf
+
+# 📄 Blade files: treat as HTML for diff and linguist
+*.blade.php linguist-language=HTML
+
+# 🎨 Frontend files
+*.css   text
+*.scss  text
+*.js    text
+*.json  text
+*.vue   text
+
+# ⚙️ Backend files
+*.php   text
+
+# 📜 Docs and config
+*.md    text
+*.yml   text
+*.yaml  text
+*.env   text
+*.xml   text
+*.gitignore text
+*.gitattributes text
