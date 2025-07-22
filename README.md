@@ -1,6 +1,6 @@
 # 🌐 Danilo.Dev — Portfolio Website
 
-Welcome to my **personal portfolio** website built with **Laravel**, **Tailwind CSS**, **Alpine.js**, and **Vite**.
+Welcome to my **personal portfolio** website built with **Laravel**, **Tailwind CSS**, **js**, **css**, **DDocker** and **Vite**.
 
 It’s a custom-built site to showcase my **full-stack web development skills** through clean code, interactive animations, modern architecture, and a mobile-first approach.
 
@@ -31,7 +31,8 @@ Here are some screenshots of the portfolio in action:
 **Frontend**  
 - Blade  
 - Tailwind CSS  
-- Alpine.js  
+- Js
+- css  
 - Vite
 
 **Backend & Deployment**  
