@@ -62,10 +62,6 @@ I build clean, modern, and scalable websites & applications for real businesses.
 
 ---
 
-## ⚠️ Disclaimer & License
+## 📄 License
 
-This project is intended for educational and showcase purposes only.  
-You may reference the layout and structure, but **do not copy or redistribute this code** without permission.
-
-📄 Licensed under: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
-© 2025 Danilo Giacinti — All rights reserved.
+MIT — free to reference for layout, structure, or components in your own portfolio!
